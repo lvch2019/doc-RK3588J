@@ -11,5 +11,5 @@ git config --global https.proxy https://127.0.0.1:23457
 
 # 取消代理
 git config --global --unset http.proxy
-
 git config --global --unset https.proxy
+可以使用VPN全局模式替代
